@@ -23,10 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student and Assistant Policy Researcher at RAND"
   location         : "Santa Monica, CA"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "RAND"
   email            : "ymizushi@rand.org"  
 
 # Publication Category - The following the list of publication categories and their headings
