@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,4 @@ redirect_from:
 
 Welcome! 
 
-I am a fourth-year PhD Student and Assistant Policy Researcher at RAND. My research interests are in health economics, labor, and public economics. 
-
-
-
-
+I am a fourth-year PhD Student in Policy Analysis and Assistant Policy Researcher at RAND. My fields of interest are health, labor, and public economics.
