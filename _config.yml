@@ -21,7 +21,7 @@ repository               : "yujimizushima/yujimizushima.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Your Sidebar Name"
   bio              : "PhD Student and Assistant Policy Researcher at RAND"
   location         : "Santa Monica, CA"
