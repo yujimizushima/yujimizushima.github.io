@@ -9,4 +9,4 @@ redirect_from:
 
 Welcome! 
 
-I am a fourth-year PhD Student in Policy Analysis and Assistant Policy Researcher at RAND. My fields of interest are health, labor, and public economics.
+I am a fourth-year PhD student in policy analysis and Assistant Policy Researcher at RAND. My fields of interest are health, labor, and public economics.
