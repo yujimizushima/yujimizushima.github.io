@@ -8,9 +8,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research"
-    url: /Research/    
-
-  - title: "Contact"
-    url: /Contact/    
-
+  - title: "Publications"
+    url: /publications/    
