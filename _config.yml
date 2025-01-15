@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuji Mizushima"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yuji Mizushima"
 description              : &description "PhD Student and Assistant Policy Researcher at RAND"
