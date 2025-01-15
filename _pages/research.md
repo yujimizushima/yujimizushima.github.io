@@ -25,6 +25,6 @@ Publications
 
 "Affordable Care Act’s Preventive Services Coverage Mandate and Receipt of Fluoride Varnish" (with Ashley Kranz, Kimberley Geissler, Andrew Dick, and Tadeja Gracner). _**Pediatrics**_ 154, no. 5 (2024): e2024066638  
 
-"Listings of Buprenorphine Offering by Substance Use Disorder Treatment Facilities and Waivered Clinician from July 2019 to May 2021" (with Mir Ali, Erin Taylor, Bradley Stein, Denis Agniel, and Jonathan Cantor) _**Journal of Addiction Medicine**_, 10-1097 (2024). 
+"Listings of Buprenorphine Offering by Substance Use Disorder Treatment Facilities and Waivered Clinician from July 2019 to May 2021" (with Mir Ali, Erin Taylor, Bradley Stein, Denis Agniel, and Jonathan Cantor). _**Journal of Addiction Medicine**_, 10-1097 (2024). 
 
 "Effects of Local Physician Concentrations on Physician Labor Supply and Career Trajectories: Evidence from Longitudinal Microdata in Japan" (with Haruko Noguchi and Akira Kawamura). _**The Keizai Bunseki (The Economic Analysis)**_ (202), 36-70 (2021).
