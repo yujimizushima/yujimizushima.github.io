@@ -10,7 +10,7 @@ Working Papers
 
 "Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws" (with David Powell, Rahi Abouk, and Cheryl Damberg) Revise and resubmit, _**Journal of Public Economics**_
  
-"The Repeal of Noneconomic Damage Caps and Medical Malpractice Insurance Premiums" (with Hao Yu and Christopher Whaley) Revise and resubmit, **Health Economics**__
+"The Repeal of Noneconomic Damage Caps and Medical Malpractice Insurance Premiums" (with Hao Yu and Christopher Whaley) Revise and resubmit, _**Health Economics**_
 
 "Examining Work Requirements for Public Health Insurance"
 
