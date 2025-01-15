@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuji Mizushima"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuji Mizushima"
 description              : &description "PhD Student and Assistant Policy Researcher at RAND"
 url                      : https://yujimizushima.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
