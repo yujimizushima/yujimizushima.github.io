@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Working Papers
-**
+**Working Papers**
 
 "Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws" (with David Powell, Rahi Abouk, and Cheryl Damberg). Revise and resubmit _**Journal of Public Economics**_
  
@@ -14,15 +13,13 @@ author_profile: true
 
 "Examining Work Requirements for Public Health Insurance"
 
-**Research in Progress
-**
+**Research in Progress**
 
 "How Much Should We Trust New Difference-in-Differences Estimates?" (with David Powell) 
 
 "Recent Minimum Wage Policy and Its Impact on Birth Outcomes" (with Margaret Weden, David Powell, Kate Strully, and Allison Appleton) 
 
-**Publications
-**
+**Publications**
 
 "Affordable Care Act’s Preventive Services Coverage Mandate and Receipt of Fluoride Varnish" (with Ashley Kranz, Kimberley Geissler, Andrew Dick, and Tadeja Gracner). _**Pediatrics**_ 154, no. 5 (2024): e2024066638  
 
