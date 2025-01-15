@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+# Working Papers
 
 
 "Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws" (with David Powell, Rahi Abouk, and Cheryl Damberg). Revise and resubmit _**Journal of Public Economics**_
