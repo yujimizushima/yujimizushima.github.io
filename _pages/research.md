@@ -11,9 +11,9 @@ author_profile: true
  
 "The Repeal of Noneconomic Damage Caps and Medical Malpractice Insurance Premiums" (with Hao Yu and Christopher Whaley). Revise and resubmit - _Health Economics_
 
-**Research in Progress**
+"Inference with Modern Difference-in-Differences Methods" (with David Powell) 
 
-"How Much Should We Trust New Difference-in-Differences Estimates?" (with David Powell) 
+**Research in Progress**
 
 "Recent Minimum Wage Policy and Its Impact on Birth Outcomes" (with Margaret Weden, David Powell, Kate Strully, and Allison Appleton) 
 
