@@ -13,9 +13,9 @@ author_profile: true
 
 "Inference with Modern Difference-in-Differences Methods" (with David Powell) 
 
-**Research in Progress**
-
 "Recent Minimum Wage Policy and Its Impact on Birth Outcomes" (with Margaret Weden, David Powell, Kate Strully, and Allison Appleton) 
+
+**Research in Progress**
 
 "Examining Work Requirements for Public Health Insurance"
 
