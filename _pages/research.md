@@ -7,7 +7,7 @@ author_profile: true
 
 **Working Papers**
 
-"Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws" (with David Powell, Rahi Abouk, and Cheryl Damberg). _Revise and Resubmit_ - _Journal of Public Economics_
+"Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws" (with David Powell, Rahi Abouk, and Cheryl Damberg). _Revise and Resubmit_ - _Journal of Public Economics_ 
  
 "Recent Minimum Wage Policy and Its Impact on Birth Outcomes" (with Margaret Weden, David Powell, Kate Strully, and Allison Appleton). _Revise and Resubmit_ - _Journal of Health Economics_
 
