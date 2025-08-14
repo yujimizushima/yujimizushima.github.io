@@ -7,17 +7,15 @@ author_profile: true
 
 **Working Papers**
 
-"Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws" (with David Powell, Rahi Abouk, and Cheryl Damberg). Revise and resubmit - _Journal of Public Economics_
+"Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws" (with David Powell, Rahi Abouk, and Cheryl Damberg). Revise and Resubmit - _Journal of Public Economics_
  
-"The Repeal of Noneconomic Damage Caps and Medical Malpractice Insurance Premiums" (with Hao Yu and Christopher Whaley). Revise and resubmit - _Health Economics_
+"Recent Minimum Wage Policy and Its Impact on Birth Outcomes" (with Margaret Weden, David Powell, Kate Strully, and Allison Appleton). Revise and Resubmit - _Journal of Health Economics_
+
+"The Repeal of Noneconomic Damage Caps and Medical Malpractice Insurance Premiums" (with Hao Yu and Christopher Whaley). Accepted - _Health Economics_
 
 "Inference with Modern Difference-in-Differences Methods" (with David Powell) 
 
-"Recent Minimum Wage Policy and Its Impact on Birth Outcomes" (with Margaret Weden, David Powell, Kate Strully, and Allison Appleton) 
-
-**Research in Progress**
-
-"Examining Work Requirements for Public Health Insurance"
+"Examining Work Requirements for Public Health Insurance" 
 
 **Publications**
 
