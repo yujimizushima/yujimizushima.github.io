@@ -7,26 +7,26 @@ author_profile: true
 
 **Working Papers**
 
-"Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws" (with David Powell, Rahi Abouk, and Cheryl Damberg) [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4704757))
+"Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws" (with David Powell, Rahi Abouk, and Cheryl Damberg) [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4704757)
 
-Revise and Resubmit - _Journal of Public Economics_ 
+_Revise and Resubmit_ - _Journal of Public Economics_
  
-"Recent Minimum Wage Policy and Its Impact on Birth Outcomes" (with Margaret Weden, David Powell, Kate Strully, and Allison Appleton) [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5257259#:~:text=We%20then%20find%20mixed%20effects,age%20births%2C%20but%20longer%20gestations.)
+"Recent Minimum Wage Policy and Its Impact on Birth Outcomes" (with Margaret Weden, David Powell, Kate Strully, and Allison Appleton) [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5257259#:~:text=We%20then%20find%20mixed%20effects,age%20births%2C%20but%20longer%20gestations.)
 
-Revise and Resubmit - _Journal of Health Economics_
+_Revise and Resubmit_ - _Journal of Health Economics_
 
 "The Repeal of Noneconomic Damage Caps and Medical Malpractice Insurance Premiums" (with Hao Yu and Christopher Whaley) 
-[[Link]](https://drive.google.com/file/d/1J7fyvd9hpXpzf6d6Zl3cC3jJ8tHawwhQ/view?usp=drive_link)
+[[link]](https://drive.google.com/file/d/1J7fyvd9hpXpzf6d6Zl3cC3jJ8tHawwhQ/view?usp=drive_link)
 
-Accepted - _Health Economics_
+_Accepted_ - _Health Economics_
 
-"Inference with Modern Difference-in-Differences Methods" (with David Powell) [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5221387)
+"Inference with Modern Difference-in-Differences Methods" (with David Powell) [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5221387)
 
-Under Review
+_Under Review_
 
-Media Coverage: DID Digest [[Link]] (https://diddigest.substack.com/p/more-did-drops-continuous-treatments)
+Media Coverage: DID Digest [[link]](https://diddigest.substack.com/p/more-did-drops-continuous-treatments)
 
-"Examining Work Requirements for Public Health Insurance" [[Link]](https://drive.google.com/file/d/1bcSqJaD26eJ60cfKnxqNvccjczEbs1hP/view?usp=drive_link)
+"Examining Work Requirements for Public Health Insurance" [[link]](https://drive.google.com/file/d/1bcSqJaD26eJ60cfKnxqNvccjczEbs1hP/view?usp=drive_link)
 
 
 **Publications**
