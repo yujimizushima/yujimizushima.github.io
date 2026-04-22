@@ -58,13 +58,13 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
 <h2 class="section-heading">Publications</h2>
 
 <div class="pub-entry">
-  <img src="/images/publication_previews/minwage-suicide.png" alt="" onerror="this.style.display='none'">
+  <img src="/images/AJE.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Recent Minimum Wage Policy and their Association with Suicide and Poisoning Deaths.</div>
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Powell, D., Pacula, R., &amp; Weden, M. <span class="pub-venue"><i>American Journal of Epidemiology</i>, Forthcoming.</span></div>
 </div>
 
 <div class="pub-entry">
-  <img src="/images/publication_previews/obbb-pre-analysis.png" alt="" onerror="this.style.display='none'">
+  <img src="/images/OSF.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Evaluating the One Big Beautiful Bill Act's Medicaid Work Requirements and Eligibility Redeterminations: A Pre-Analysis Plan.</div>
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span> <span class="pub-venue"><i>Open Science Framework</i> (2026) · <a href="https://osf.io/3w5cs/files/zgae3">OSF</a>.</span></div>
 </div>
