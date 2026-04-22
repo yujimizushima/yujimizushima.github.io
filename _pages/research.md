@@ -56,7 +56,7 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
 </div>
 
 <h2 class="section-heading">Publications</h2>
-
+ 
 <div class="pub-entry">
   <img src="/images/AJE.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Recent Minimum Wage Policy and their Association with Suicide and Poisoning Deaths.</div>
