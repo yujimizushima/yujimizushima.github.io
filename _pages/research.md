@@ -84,7 +84,7 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
 <div class="pub-entry">
   <img src="/images/publication_previews/damage-caps-premiums.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">The Repeal of Noneconomic Damage Caps and Medical Malpractice Insurance Premiums.</div>
-  <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Whaley, C., &amp; Yu, H. <span class="pub-venue"><i>Health Economics</i> (2025) · <a href="https://drive.google.com/file/d/1J7fyvd9hpXpzf6d6Zl3cC3jJ8tHawwhQ/view?usp=drive_link">PDF</a>.</span></div>
+  <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Whaley, C., &amp; Yu, H. <span class="pub-venue"><i>Health Economics</i> (2025) · <a href="[https://drive.google.com/file/d/1J7fyvd9hpXpzf6d6Zl3cC3jJ8tHawwhQ/view?usp=drive_link](https://onlinelibrary.wiley.com/doi/10.1002/hec.70032)">Article</a>.</span></div>
 </div>
 
 <div class="pub-entry">
