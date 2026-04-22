@@ -15,7 +15,7 @@ author_profile: true
   border: 1px solid #e5e5e5;
 }
 .pub-body { margin: 0; line-height: 1.5; }
-.pub-title { font-weight: 600; }
+.pub-title { font-weight: 600; display: block; margin-bottom: 0.15em; }
 .pub-authors { color: #444; }
 .pub-venue { color: #777; }
 .pub-venue a { font-size: inherit; }
