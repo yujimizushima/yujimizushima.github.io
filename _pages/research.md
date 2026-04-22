@@ -20,22 +20,11 @@ author_profile: true
 .pub-venue a { font-size: inherit; }
 .pub-meta { font-size: 0.85em; color: #888; margin-bottom: 0.3em; }
 .pub-abstract { font-size: 0.92em; margin-bottom: 0.5em; }
-.year-jump { margin: 1em 0 2em 0; }
-.year-jump a { margin-right: 1em; }
-h2.year-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-top: 1.5em; }
+h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-top: 1.5em; }
 .self-author { font-weight: 600; font-style: normal; }
 </style>
 
-<div class="year-jump">
-  <a href="#working-papers">Working Papers</a>
-  <a href="#forthcoming">Forthcoming</a>
-  <a href="#y2026">2026</a>
-  <a href="#y2025">2025</a>
-  <a href="#y2024">2024</a>
-  <a href="#y2021">2021</a>
-</div>
-
-<h2 id="working-papers" class="year-heading">Working Papers</h2>
+<h2 class="section-heading">Working Papers</h2>
 
 <div class="pub-entry">
   <img src="/images/publication_previews/minwage-birth-outcomes.png" alt="">
@@ -74,7 +63,7 @@ h2.year-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-t
   <div class="pub-meta">Dissertation Chapter</div>
 </div>
 
-<h2 id="forthcoming" class="year-heading">Forthcoming</h2>
+<h2 class="section-heading">Publications</h2>
 
 <div class="pub-entry">
   <img src="/images/publication_previews/minwage-suicide.png" alt="">
@@ -82,8 +71,6 @@ h2.year-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-t
   <div class="pub-authors"><span class="self-author">Mizushima, Y.</span>, Powell, D., Pacula, R., &amp; Weden, M.</div>
   <div class="pub-venue"><i>American Journal of Epidemiology</i>, Forthcoming</div>
 </div>
-
-<h2 id="y2026" class="year-heading">2026</h2>
 
 <div class="pub-entry">
   <img src="/images/publication_previews/aud-medication.png" alt="">
@@ -98,8 +85,6 @@ h2.year-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-t
   <div class="pub-authors"><span class="self-author">Mizushima, Y.</span></div>
   <div class="pub-venue"><i>Open Science Framework</i> (2026) · <a href="https://osf.io/3w5cs/files/zgae3">OSF</a></div>
 </div>
-
-<h2 id="y2025" class="year-heading">2025</h2>
 
 <div class="pub-entry">
   <img src="/images/publication_previews/pain-management-clinics.png" alt="">
@@ -130,8 +115,6 @@ h2.year-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-t
   <div class="pub-venue"><i>Academic Pediatrics</i> (2025) · <a href="https://www.sciencedirect.com/science/article/pii/S1876285925001068">Article</a></div>
 </div>
 
-<h2 id="y2024" class="year-heading">2024</h2>
-
 <div class="pub-entry">
   <img src="/images/publication_previews/aca-fluoride.png" alt="">
   <div class="pub-title">Affordable Care Act's Preventive Services Coverage Mandate and Receipt of Fluoride Varnish</div>
@@ -145,8 +128,6 @@ h2.year-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-t
   <div class="pub-authors">Ali, M.M., Taylor, E.A., Stein, B.D., <span class="self-author">Mizushima, Y.</span>, Agniel, D., &amp; Cantor, J.</div>
   <div class="pub-venue"><i>Journal of Addiction Medicine</i> (2024) · <a href="https://journals.lww.com/journaladdictionmedicine/fulltext/9900/listings_of_buprenorphine_offering_by_substance.436.aspx">Article</a></div>
 </div>
-
-<h2 id="y2021" class="year-heading">2021</h2>
 
 <div class="pub-entry">
   <img src="/images/publication_previews/physician-concentration-japan.png" alt="">
