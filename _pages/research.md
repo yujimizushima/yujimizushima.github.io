@@ -9,8 +9,8 @@ author_profile: true
 .pub-entry { overflow: hidden; margin-bottom: 2.5em; }
 .pub-entry img {
   float: left;
-  width: 150px;
-  max-width: 150px;
+  width: 100px;
+  max-width: 100px;
   margin: 0 1.25em 0.5em 0;
   border: 1px solid #e5e5e5;
 }
