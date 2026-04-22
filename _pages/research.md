@@ -109,9 +109,3 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
   <div class="pub-title">Listings of Buprenorphine Offering by Substance Use Disorder Treatment Facilities and Waivered Clinician From July 2019 to May 2021.</div>
   <div class="pub-body">Ali, M.M., Taylor, E.A., Stein, B.D., <span class="self-author">Mizushima, Y.</span>, Agniel, D., &amp; Cantor, J. <span class="pub-venue"><i>Journal of Addiction Medicine</i> (2024) · <a href="https://journals.lww.com/journaladdictionmedicine/fulltext/9900/listings_of_buprenorphine_offering_by_substance.436.aspx">Article</a>.</span></div>
 </div>
-
-<div class="pub-entry">
-  <img src="/images/KeizaiBunseki.png" alt="" onerror="this.style.display='none'">
-  <div class="pub-title">Effects of Local Physician Concentrations on Physician Labor Supply and Career Trajectories: Evidence from Longitudinal Microdata in Japan.</div>
-  <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Noguchi, H., &amp; Kawamura, A. <span class="pub-venue"><i>The Economic Analysis (Keizai Bunseki)</i>, (202), 36–70 (2021) · <a href="https://www.esri.cao.go.jp/jp/esri/archive/bun/bun202/bun202c.pdf">PDF</a>.</span></div>
-</div>
