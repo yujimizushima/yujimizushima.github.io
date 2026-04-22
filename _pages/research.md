@@ -76,7 +76,7 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
 </div>
 
 <div class="pub-entry">
-  <img src="/images/publication_previews/pain-management-clinics.png" alt="" onerror="this.style.display='none'">
+  <img src="/images/JPubEc.jpg" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Regulating Quasi-Legal Markets: Evidence from Pain Management Clinic Laws.</div>
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Powell, D., Abouk, R., &amp; Damberg, C. <span class="pub-venue"><i>Journal of Public Economics</i>, 252, 105515 (2025) · <a href="https://www.sciencedirect.com/science/article/pii/S0047272725002142">Article</a>.</span> <span class="pub-meta">Dissertation Chapter.</span></div>
 </div>
