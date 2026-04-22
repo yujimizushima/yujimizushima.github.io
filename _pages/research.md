@@ -26,31 +26,31 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
 <h2 class="section-heading">Working Papers</h2>
 
 <div class="pub-entry">
-  <img src="/images/publication_previews/minwage-birth-outcomes.png" alt="" onerror="this.style.display='none'">
+  <img src="/images/JHE_Fig.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Recent Minimum Wage Policy and Its Impact on Birth Outcomes.</div>
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Powell, D., Weden, M., Strully, K., &amp; Appleton, A. <span class="pub-venue">Revise and Resubmit, <i>Journal of Health Economics</i> · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5257259">SSRN</a>.</span> <span class="pub-meta">Dissertation Chapter.</span></div>
 </div>
 
 <div class="pub-entry">
-  <img src="/images/publication_previews/did-inference.png" alt="" onerror="this.style.display='none'">
+  <img src="/images/inference.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Inference with Modern Difference-in-Differences Methods.</div>
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span> &amp; Powell, D. <span class="pub-venue">Revise and Resubmit, <i>Journal of Policy Analysis and Management</i> · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5221387">SSRN</a> · <a href="https://diddigest.substack.com/p/more-did-drops-continuous-treatments">Media</a>.</span></div>
 </div>
 
 <div class="pub-entry">
-  <img src="/images/publication_previews/damage-caps-maternal.png" alt="" onerror="this.style.display='none'">
+  <img src="/images/JNO_repeals.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Changes in Maternal Care and Infant Health After Noneconomic Damage Cap Repeals.</div>
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Whaley, C., Kaimal, A., &amp; Yu, H. <span class="pub-venue">Revise and Resubmit, <i>JAMA Network Open</i>.</span></div>
 </div>
 
 <div class="pub-entry">
-  <img src="/images/publication_previews/imd-waivers-california.png" alt="" onerror="this.style.display='none'">
+  <img src="/images/IMD.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Supply-Side Responses to Institutions for Mental Disease Exclusion Waivers: Evidence from California.</div>
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Cantor, J., McBain, R.K., &amp; Yu, H. <span class="pub-venue">Preparing for Submission · <a href="https://drive.google.com/file/d/1SP9CyJ6NO8w3UesAXT4xK_LupT4O_xWb/view?usp=drive_link">PDF</a>.</span></div>
 </div>
 
 <div class="pub-entry">
-  <img src="/images/publication_previews/medicaid-work-requirements.png" alt="" onerror="this.style.display='none'">
+  <img src="/images/AJHE.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Do Medicaid Work Requirements Work?</div>
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span> <span class="pub-venue">Under Review · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6618138">SSRN</a>.</span> <span class="pub-meta">Dissertation Chapter.</span></div>
 </div>
