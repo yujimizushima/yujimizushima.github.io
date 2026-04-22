@@ -30,7 +30,7 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
   <div class="pub-title">Recent Minimum Wage Policy and Its Impact on Birth Outcomes.</div>
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Powell, D., Weden, M., Strully, K., &amp; Appleton, A. <span class="pub-venue">Revise and Resubmit, <i>Journal of Health Economics</i> · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5257259">SSRN</a>.</span> <span class="pub-meta">Dissertation Chapter.</span></div>
 </div>
-
+ 
 <div class="pub-entry">
   <img src="/images/inference.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Inference with Modern Difference-in-Differences Methods.</div>
