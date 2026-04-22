@@ -33,7 +33,7 @@ h2.year-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-t
 <h2 id="y2025" class="year-heading">2025</h2>
 
 <div class="pub-entry">
-  <img src="/images/JPubEc.png" alt="">
+  <img src="/images/JPubEc.jpg" alt="">
   <div class="pub-title">Full title of your paper</div>
   <div class="pub-authors">Yuji Mizushima, Co-author One, and Co-author Two</div>
   <div class="pub-venue"><i>Journal Name</i>, June 2025</div>
