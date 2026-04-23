@@ -27,12 +27,12 @@ classes: wide
   <h3>RAND School of Public Policy (2022–2023)</h3>
   <ul>
     <li>
-      <span class="course-title">Statistics for Policy Analysis I</span>
+      <span class="course-title"><a href="https://drive.google.com/file/d/1DMZ3TTVHECnAYDEc-64oqEPr0j9phmsD/view?usp=drive_link">Statistics for Policy Analysis I</a></span>
       <span class="course-meta"> (Ph.D. core) — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Jessie Coe.</span>
     </li>
     <li>
-      <span class="course-title">Statistics for Policy Analysis II</span>
+      <span class="course-title"><a href="https://drive.google.com/drive/folders/13XOubudd0UZgAGgDuapZE5RqOq_frmri?usp=sharing">Statistics for Policy Analysis II</a></span>
       <span class="course-meta"> (Ph.D. core) — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Isaac Opper.</span>
     </li>
@@ -57,7 +57,6 @@ classes: wide
   <h3>Waseda University, Faculty of Political Science and Economics (2019–2020)</h3>
   <ul>
     <li>
-      <span class="course-title">Applied Econometrics using R</span>
       <span class="course-title"><a href="https://github.com/yutatoyama/AppliedEconometrics">Applied Econometrics using R</a></span>
       <span class="course-meta"> (advanced undergraduate) — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Yuta Toyama.</span>
