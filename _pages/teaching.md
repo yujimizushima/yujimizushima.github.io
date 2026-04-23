@@ -1,28 +1,24 @@
 ---
 layout: single
-title: "Teaching"
-permalink: /teaching/
+title: "CV"
+permalink: /cv/
 author_profile: false
 classes: wide
 ---
+
 <style>
-#main,
-.page,
+.page {
+  float: left;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
 .page__inner-wrap,
 .page__content,
-.page__title,
-.page__hero--overlay,
-.archive {
+.page__title {
   margin-left: 0 !important;
   padding-left: 0 !important;
-  max-width: none !important;
-  width: 100% !important;
-}
-
-.initial-content,
-.layout--single {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
+  max-width: none;
 }
 </style>
 
