@@ -48,7 +48,7 @@ I have served as a teaching assistant for graduate- and advanced-undergraduate-l
 </div>
 
 <div class="teaching-section">
-  <h3>Waseda University (2019–2020)</h3>
+  <h3>Waseda University, Faculty of Political Science and Economics (2019–2020)</h3>
   <ul>
     <li>
       <span class="course-title">Applied Econometrics using R</span>
