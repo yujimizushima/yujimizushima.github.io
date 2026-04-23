@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! 
 
-I am a health economist and postdoctoral fellow in health policy and insurance research at the Harvard Pilgrim Health Care Institute. I also hold a secondary appointment at RAND. My research spans topics in behavioral health care, health care financing, workforce development, and population health.
+I am a health economist and postdoctoral fellow in health policy and insurance research at the Harvard Pilgrim Health Care Institute, with a secondary appointment at RAND. My research spans topics in behavioral health care, health care financing, workforce development, and population health. I am on the 2025-2026 academic job market. 
 
 My work has appeared in or received requests for revisions at leading academic journals, such as the _Journal of Public Economics_, _Journal of Health Economics_, _Journal of Policy Analysis and Management_, _Pediatrics_, and _American Journal of Epidemiology_. 
 
