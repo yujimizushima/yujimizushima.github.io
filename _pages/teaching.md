@@ -42,7 +42,7 @@ classes: wide
       <span class="course-instructor">Instructor: Roland Sturm.</span>
     </li>
     <li>
-      <span class="course-title">Designing Empirical Research</span>
+      <span class="course-title"><a href="https://drive.google.com/file/d/1PPRLKqrmw0satijmDftfcjaJ2IUfAesW/view?usp=drive_link">Designing Empirical Research</a></span>
       <span class="course-meta"> (Ph.D. core) — Teaching Assistant.</span>
       <span class="course-instructor">Instructors: Kathryn Bouskill and Lisa Meredith.</span>
     </li>
@@ -58,6 +58,7 @@ classes: wide
   <ul>
     <li>
       <span class="course-title">Applied Econometrics using R</span>
+      <span class="course-title"><a href="https://github.com/yutatoyama/AppliedEconometrics">Applied Econometrics using R</a></span>
       <span class="course-meta"> (advanced undergraduate) — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Yuta Toyama.</span>
     </li>
