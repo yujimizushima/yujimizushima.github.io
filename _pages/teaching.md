@@ -47,12 +47,12 @@ classes: wide
       <span class="course-instructor">Instructors: Kathryn Bouskill and Lisa Meredith.</span>
     </li>
     <li>
-      <span class="course-title">Ph.D. Qualifying Examinations</span>
+      <span class="course-title">Ph.D. Qualifying Examinations*</span>
       <span class="course-meta"> — Organized review sessions for the quantitative analysis section of the written qualifying exams* for first-year PhD students.</span>
     </li>
   </ul>
 </div>
-* Qualifying examinations consist of a series of 8-hour written exams taken at the end of the first year for PhD students to progress to candidacy: microeconomics, statistics and econometrics, and public policy analysis. 
+* Note: Qualifying examinations consist of a series of 8-hour written exams taken at the end of the first year for PhD students to progress to candidacy: microeconomics, statistics and econometrics, and public policy analysis. 
 <div class="teaching-section">
   <h3>Waseda University, Faculty of Political Science and Economics (2019–2020)</h3>
   <ul>
