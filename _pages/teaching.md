@@ -62,7 +62,8 @@ classes: wide
       <span class="course-instructor">Instructor: Yuta Toyama.</span>
     </li>
     <li>
-      <span class="course-title">Health Econometrics</span>
+      <span class="course-title"><a href="https://github.com/yutatoyama/AppliedEconometrics">Health Econometrics</a></span>
+      https://drive.google.com/file/d/1v6IML1IzE9gdwJrUicbAh7t40FXy9XsV/view?usp=sharing
       <span class="course-meta"> (advanced undergraduate) — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Fu Rong.</span>
     </li>
