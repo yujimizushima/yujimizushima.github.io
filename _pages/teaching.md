@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "CV"
-permalink: /cv/
+title: "Research"
+permalink: /research/
 author_profile: false
 classes: wide
 ---
