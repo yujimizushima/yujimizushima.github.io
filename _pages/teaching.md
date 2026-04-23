@@ -58,12 +58,12 @@ classes: wide
   <ul>
     <li>
       <span class="course-title"><a href="https://yutatoyama.github.io/AppliedEconometrics2021/">Applied Econometrics using R</a></span>
-      <span class="course-meta"> (advanced undergraduate) — Teaching Assistant.</span>
+      <span class="course-meta"> — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Yuta Toyama.</span>
     </li>
     <li>
       <span class="course-title"><a href="https://drive.google.com/file/d/1v6IML1IzE9gdwJrUicbAh7t40FXy9XsV/view?usp=drive_link">Health Econometrics</a></span>
-      <span class="course-meta"> (advanced undergraduate) — Teaching Assistant.</span>
+      <span class="course-meta"> — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Fu Rong.</span>
     </li>
   </ul>
