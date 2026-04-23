@@ -22,7 +22,6 @@ classes: wide
 }
 </style>
 
-I have served as a teaching assistant for graduate- and advanced-undergraduate-level courses in econometrics, statistics, and empirical research design. Below is a list of the courses I have supported.
 
 <div class="teaching-section">
   <h3>RAND School of Public Policy (2022–2023)</h3>
