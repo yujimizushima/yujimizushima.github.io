@@ -2,11 +2,26 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
 <style>
+.page {
+  float: left;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+.page__inner-wrap,
+.page__content,
+.page__title {
+  margin-left: 0 !important;
+  padding-left: 1em !important;
+  max-width: none;
+}
+
+/* Existing teaching styles */
 .teaching-section { margin-bottom: 2em; }
 .teaching-section h3 { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 0.5em; }
 .teaching-section ul { margin-top: 0.25em; padding-left: 1.2em; }
