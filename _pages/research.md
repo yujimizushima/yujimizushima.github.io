@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 sidebar: nav: "research"
 ---
-
+ 
 <style>
 .pub-entry { overflow: hidden; margin-bottom: 1.75em; }
 .pub-entry img {
