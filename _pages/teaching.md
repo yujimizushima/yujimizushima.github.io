@@ -57,7 +57,7 @@ classes: wide
   <h3>Waseda University, Faculty of Political Science and Economics (2019–2020)</h3>
   <ul>
     <li>
-      <span class="course-title"><a href="https://drive.google.com/file/d/1PPRLKqrmw0satijmDftfcjaJ2IUfAesW/view?usp=drive_link">Applied Econometrics using R</a></span>
+      <span class="course-title"><a href="https://github.com/yutatoyama/AppliedEconometrics2021">Applied Econometrics using R</a></span>
       <span class="course-meta"> (advanced undergraduate) — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Yuta Toyama.</span>
     </li>
