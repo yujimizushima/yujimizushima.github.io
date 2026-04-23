@@ -52,7 +52,7 @@ classes: wide
     </li>
   </ul>
 </div>
-* Note: Qualifying examinations consist of a series of 8-hour written exams taken at the end of the first year for PhD students to progress to candidacy: microeconomics, statistics and econometrics, and public policy analysis. 
+* Note: _Qualifying examinations are a series of three 8-hour written exams in microeconomics, statistics and econometrics, and public policy analysis, taken at the end of the first year to advance to PhD candidacy._
 <div class="teaching-section">
   <h3>Waseda University, Faculty of Political Science and Economics (2019–2020)</h3>
   <ul>
