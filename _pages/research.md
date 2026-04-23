@@ -3,7 +3,8 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: false
-sidebar: nav: "research"
+sidebar: 
+ nav: "research"
 ---
  
 <style>
