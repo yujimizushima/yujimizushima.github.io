@@ -6,28 +6,24 @@ author_profile: false
 classes: wide
 ---
 <style>
-.page {
-  float: left;
-  width: 100%;
-  padding-left: 0;
-  padding-right: 0;
-}
+#main,
+.page,
 .page__inner-wrap,
 .page__content,
-.page__title {
+.page__title,
+.page__hero--overlay,
+.archive {
   margin-left: 0 !important;
   padding-left: 0 !important;
-  max-width: none;
+  max-width: none !important;
+  width: 100% !important;
 }
 
-/* Existing teaching styles */
-.teaching-section { margin-bottom: 2em; }
-.teaching-section h3 { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margin-top: 1.5em; margin-bottom: 0.5em; }
-.teaching-section ul { margin-top: 0.25em; padding-left: 1.2em; }
-.teaching-section li { margin-bottom: 0.35em; line-height: 1.5; }
-.course-title { font-weight: 600; }
-.course-meta { color: #555; }
-.course-instructor { color: #777; font-size: 0.95em; }
+.initial-content,
+.layout--single {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
 </style>
 
 I have served as a teaching assistant for graduate- and advanced-undergraduate-level courses in econometrics, statistics, and empirical research design. Below is a list of the courses I have supported.
