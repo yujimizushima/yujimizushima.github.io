@@ -37,7 +37,7 @@ classes: wide
       <span class="course-instructor">Instructor: Isaac Opper.</span>
     </li>
     <li>
-      <span class="course-title">Applied Statistics (Advanced Econometrics I)</span>
+      <span class="course-title"><a href="https://drive.google.com/file/d/1vrkEdFgPYzyCoaZF5aLdtYtsvfhq_iFs/view?usp=drive_link">Applied Statistics</a></span>
       <span class="course-meta"> (Ph.D. elective) — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Roland Sturm.</span>
     </li>
