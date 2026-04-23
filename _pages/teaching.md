@@ -28,12 +28,12 @@ classes: wide
   <ul>
     <li>
       <span class="course-title"><a href="https://drive.google.com/file/d/1DMZ3TTVHECnAYDEc-64oqEPr0j9phmsD/view?usp=drive_link">Statistics for Policy Analysis I</a></span>
-      <span class="course-meta"> (Ph.D. core) — Teaching Assistant.</span>
+      <span class="course-meta"> — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Jessie Coe.</span>
     </li>
     <li>
       <span class="course-title"><a href="https://drive.google.com/drive/folders/13XOubudd0UZgAGgDuapZE5RqOq_frmri?usp=sharing">Statistics for Policy Analysis II</a></span>
-      <span class="course-meta"> (Ph.D. core) — Teaching Assistant.</span>
+      <span class="course-meta"> — Teaching Assistant.</span>
       <span class="course-instructor">Instructor: Isaac Opper.</span>
     </li>
     <li>
@@ -43,7 +43,7 @@ classes: wide
     </li>
     <li>
       <span class="course-title"><a href="https://drive.google.com/file/d/1PPRLKqrmw0satijmDftfcjaJ2IUfAesW/view?usp=drive_link">Designing Empirical Research</a></span>
-      <span class="course-meta"> (Ph.D. core) — Teaching Assistant.</span>
+      <span class="course-meta"> — Teaching Assistant.</span>
       <span class="course-instructor">Instructors: Kathryn Bouskill and Lisa Meredith.</span>
     </li>
     <li>
