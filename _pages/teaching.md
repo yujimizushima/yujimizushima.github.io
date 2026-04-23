@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: false
 classes: wide
 ---
-
 <style>
 .page {
   float: left;
@@ -17,7 +16,7 @@ classes: wide
 .page__content,
 .page__title {
   margin-left: 0 !important;
-  padding-left: 1em !important;
+  padding-left: 0 !important;
   max-width: none;
 }
 
