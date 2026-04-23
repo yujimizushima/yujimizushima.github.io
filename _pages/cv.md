@@ -19,5 +19,5 @@ classes: wide
   padding-left: 0 !important;
   max-width: none;
 }
-
+</style>
 [Curriculum Vitae in PDF](https://drive.google.com/file/d/1QJwFL_ya6Ieqk-3Gj-Jcaj_2S6rVbnaJ/view?usp=sharing)
