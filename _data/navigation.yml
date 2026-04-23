@@ -6,3 +6,10 @@
 
 main:
 
+research:
+  - title: "Sections"
+    children:
+      - title: "Working Papers"
+        url: "/research/#working-papers"
+      - title: "Publications"
+        url: "/research/#publications"
