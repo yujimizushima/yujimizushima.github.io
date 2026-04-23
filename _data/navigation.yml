@@ -10,7 +10,7 @@ main:
     url: /research/
 - title: "Teaching"
     url: /teaching/
-
+ 
 research:
   - title: "Sections"
     children:
