@@ -2,7 +2,8 @@
 layout: single
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
+sidebar: nav: "research"
 ---
 
 <style>
@@ -23,7 +24,7 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
 .self-author { font-weight: 600; }
 </style>
 
-<h2 class="section-heading">Working Papers</h2>
+<h2 id="working-papers" class="section-heading">Working Papers</h2>
 
 <div class="pub-entry">
   <img src="/images/JHE_Fig.png" alt="" onerror="this.style.display='none'">
@@ -55,7 +56,7 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
   <div class="pub-body"><span class="self-author">Mizushima, Y.</span> <span class="pub-venue">Under Review · <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6618138">SSRN</a>.</span> <span class="pub-meta">Dissertation Chapter.</span></div>
 </div>
 
-<h2 class="section-heading">Publications</h2>
+<h2 id="publications" class="section-heading">Publications</h2>
  
 <div class="pub-entry">
   <img src="/images/AJE.png" alt="" onerror="this.style.display='none'">
