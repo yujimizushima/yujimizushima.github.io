@@ -48,7 +48,7 @@ classes: wide
     </li>
     <li>
       <span class="course-title">Ph.D. Qualifying Examinations*</span>
-      <span class="course-meta"> — Organized review sessions for the quantitative analysis section of the written qualifying exams* for first-year PhD students.</span>
+      <span class="course-meta"> — Organized review sessions for the quantitative analysis section of the written qualifying exams for first-year PhD students.</span>
     </li>
   </ul>
 </div>
