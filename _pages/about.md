@@ -13,5 +13,5 @@ I am a health economist and postdoctoral fellow in health policy and insurance r
 
 My work has appeared in or received requests for revisions at leading academic journals, such as the _Journal of Public Economics_, _Journal of Health Economics_, _Journal of Policy Analysis and Management_, _Health Economics_, and _American Journal of Epidemiology_. 
 
-I received my Ph.D. in policy analysis from the RAND School of Public Policy in 2025, and am recipient of the 2026 Glenn A. Gotz Endowed Award in Economic Analysis. Please feel free to reach out at ymizushi[at]rand.org or yuji_mizushima[at]hphci.harvard.edu with any questions or collaboration interests.
+I received my Ph.D. in Policy Analysis from the RAND School of Public Policy in 2025 and received the 2026 Glenn A. Gotz Endowed Award in Economic Analysis. Please feel free to reach out at ymizushi[at]rand.org or yuji_mizushima[at]hphci.harvard.edu with any questions or collaboration interests.
 
