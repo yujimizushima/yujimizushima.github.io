@@ -64,7 +64,7 @@ h2.section-heading { border-bottom: 1px solid #ddd; padding-bottom: 0.3em; margi
 <div class="pub-entry">
   <img src="/images/AJE.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Recent Minimum Wage Policy and their Association with Suicide and Poisoning Deaths.</div>
-  <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Powell, D., Pacula, R., &amp; Weden, M. <span class="pub-venue"><i>American Journal of Epidemiology</i>, 2026</span></div>
+  <div class="pub-body"><span class="self-author">Mizushima, Y.</span>, Powell, D., Pacula, R., &amp; Weden, M. <span class="pub-venue"><i>American Journal of Epidemiology</i>, (2026) · <a href="[(https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849876)](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwag084/8666888)"></a>Article</span></div>
 </div>
 
 <div class="pub-entry">
