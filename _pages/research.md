@@ -230,4 +230,3 @@ h2.section-heading {
     </span>
   </div>
 </div>
-```
