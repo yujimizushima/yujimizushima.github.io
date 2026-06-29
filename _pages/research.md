@@ -1,4 +1,4 @@
-```html
+
 ---
 layout: single
 title: "Research"
