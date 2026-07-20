@@ -87,7 +87,7 @@ h2.section-heading {
 
 <div class="pub-entry">
   <img src="/images/IMD.png" alt="" onerror="this.style.display='none'">
-  <div class="pub-title">Medicaid Institutions for Mental Disease Exclusion Waivers and the Provision of Comprehensive Care: Evidence from California.</div>
+  <div class="pub-title">Supply-Side Responses to Medicaid Institutions for Mental Disease Exclusion Waivers: Evidence from California.</div>
   <div class="pub-body">
     <span class="self-author">Mizushima, Y.</span>, Cantor, J., McBain, R.K., &amp; Yu, H.
     <span class="pub-venue">Under Review.</span>
