@@ -20,7 +20,7 @@ repository               : "yujimizushima/yujimizushima.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Mizushima_Yuji_0957.jpg"
+  avatar           : "profile.jpg"
   name             : "Yuji Mizushima"
   googlescholar    : "https://scholar.google.com/citations?user=KiFbtAwAAAAJ&hl=en"
   email            : "ymizushi@rand.org"  
