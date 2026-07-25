@@ -13,5 +13,3 @@ I am a health economist and postdoctoral fellow in the Division of Health Policy
 
 Please feel free to reach out at ymizushi[at]rand.org or yuji_mizushima[at]hphci.harvard.edu with any questions or collaboration interests.
 
-[CV](https://drive.google.com/file/d/1QJwFL_ya6Ieqk-3Gj-Jcaj_2S6rVbnaJ/view?usp=sharing)
-
