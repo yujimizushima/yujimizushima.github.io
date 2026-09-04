@@ -134,18 +134,6 @@ h2.section-heading {
 </div>
 
 <div class="pub-entry">
-  <img src="/images/OSF.png" alt="" onerror="this.style.display='none'">
-  <div class="pub-title">Evaluating the One Big Beautiful Bill Act's Medicaid Work Requirements and Eligibility Redeterminations: A Pre-Analysis Plan.</div>
-  <div class="pub-body">
-    <span class="self-author">Mizushima, Y.</span>
-    <span class="pub-venue">
-      <i>Open Science Framework</i> (2026) ·
-      <a href="https://osf.io/3w5cs/files/nm6fz">OSF</a>.
-    </span>
-  </div>
-</div>
-
-<div class="pub-entry">
   <img src="/images/JNO.png" alt="" onerror="this.style.display='none'">
   <div class="pub-title">Medication Availability for Alcohol Use Disorder in Substance Use Disorder Treatment Facilities.</div>
   <div class="pub-body">
