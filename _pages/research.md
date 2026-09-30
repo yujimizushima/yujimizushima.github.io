@@ -103,7 +103,7 @@ h2.section-heading {
   <div class="pub-body">
     <span class="self-author">Mizushima, Y.</span>, Powell, D., Weden, M., Strully, K., &amp; Appleton, A.
     <span class="pub-venue">
-      Forthcoming, <i>Journal of Health Economics</i> ·
+      Forthcoming, <i>Journal of Health Economics </i> ·
       <a href="https://doi.org/10.1016/j.jhealeco.2026.103184">Article</a>.
     </span>
     <span class="pub-meta">Dissertation Chapter.</span>
