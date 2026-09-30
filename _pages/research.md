@@ -59,18 +59,6 @@ h2.section-heading {
 
 <h2 id="working-papers" class="section-heading">Working Papers</h2>
 
-<div class="pub-entry">
-  <img src="/images/JHE_Fig.png" alt="" onerror="this.style.display='none'">
-  <div class="pub-title">Recent Minimum Wage Policy and Its Impact on Birth Outcomes.</div>
-  <div class="pub-body">
-    <span class="self-author">Mizushima, Y.</span>, Powell, D., Weden, M., Strully, K., &amp; Appleton, A.
-    <span class="pub-venue">
-      Conditional Acceptance, <i>Journal of Health Economics</i> ·
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5257259">SSRN</a>.
-    </span>
-    <span class="pub-meta">Dissertation Chapter.</span>
-  </div>
-</div>
 
 <div class="pub-entry">
   <img src="/images/inference.png" alt="" onerror="this.style.display='none'">
@@ -108,6 +96,19 @@ h2.section-heading {
 </div>
 
 <h2 id="publications" class="section-heading">Publications</h2>
+
+<div class="pub-entry">
+  <img src="/images/JHE_Fig.png" alt="" onerror="this.style.display='none'">
+  <div class="pub-title">Recent Minimum Wage Policy and Its Impacts on Birth Outcomes.</div>
+  <div class="pub-body">
+    <span class="self-author">Mizushima, Y.</span>, Powell, D., Weden, M., Strully, K., &amp; Appleton, A.
+    <span class="pub-venue">
+      Forthcoming, <i>Journal of Health Economics</i> ·
+      <a href="[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5257259](https://www.sciencedirect.com/science/article/abs/pii/S0167629626000822)">Article</a>.
+    </span>
+    <span class="pub-meta">Dissertation Chapter.</span>
+  </div>
+</div>
 
 <div class="pub-entry">
   <img src="/images/JNO_repeals.png" alt="" onerror="this.style.display='none'">
