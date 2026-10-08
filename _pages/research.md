@@ -69,7 +69,7 @@ h2.section-heading {
     <span class="pub-venue">
       **<i>Job Market Paper</i>** 
           <span class="pub-venue">Under Review.</span>
-      <a href="https://drive.google.com/file/d/17FiY7l_VUAk2P8eWRbikgL_ZDMiqtO8e/view?usp=sharing">Link</a> ·
+      <a href="https://drive.google.com/file/d/17FiY7l_VUAk2P8eWRbikgL_ZDMiqtO8e/view?usp=sharing">Article</a> 
     </span>
   </div>
 </div>
