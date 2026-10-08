@@ -67,7 +67,8 @@ h2.section-heading {
   <div class="pub-body">
     <span class="self-author">Mizushima, Y.</span>, Kaimal, A., &amp; Yu, H.
     <span class="pub-venue">
-      **<i>Job Market Paper</i>**
+      **<i>Job Market Paper</i>** 
+          <span class="pub-venue">Under Review.</span>
       <a href="https://drive.google.com/file/d/17FiY7l_VUAk2P8eWRbikgL_ZDMiqtO8e/view?usp=sharing">Link</a> ·
     </span>
   </div>
